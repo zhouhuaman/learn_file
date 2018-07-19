@@ -7,4 +7,5 @@ git config --global user.name "zhouhuaman"
 git commit -m "update commit" #把文件提交到仓库
 git remote add origin http://github.com/zhouhuaman/learn_file.git
 git pull origin master
+git push -u origin master
 git push origin master #将本地主分支推到远程主分支
